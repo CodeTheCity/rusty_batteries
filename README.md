@@ -37,9 +37,11 @@ Searching for what to do with batteries in Aberdeen results in a list of shops a
 
 The main issue, however, is that there is no clear licence regarding reuse of the website's content. The site appears to be a rebadged version of [Recycle Now](https://www.recyclenow.com/), built for [Zero Waste Scotland (ZWS)](https://www.zerowastescotland.org.uk/content/terms-conditions).  According to ZWS's [Terms and Conditions](https://www.zerowastescotland.org.uk/content/terms-conditions) on their own site, you can't (re)use any materials from that site. 
 
+![ZWS T&Cs](https://github.com/CodeTheCity/rusty_batteries/blob/master/images/Screenshot%202019-11-09%20at%2013.20.13.png)
+
 ZWS are [publicly funded[(https://www.zerowastescotland.org.uk/content/who-we-are)] by the Scottish Government and the European Regional Development Fund - all public money.
 
-We argue that any website operated by a government agency, or department, or NDPB, should automatically be licensed under the [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) or OGL. And any data behind that site should be licenced as OPen Data. 
+We argue that any website operated by a government agency, or department, or NDPB, should automatically be licensed under the [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) or OGL. And any data behind that site should be licenced as Open Data. 
 
 The Scottish Government's own website is [fully licenced](https://www.gov.scot/crown-copyright/)under OGL. 
 
