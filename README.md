@@ -55,7 +55,7 @@ _Screenshot of Zero Waste Scotland Website_
 ============================================
 We argue that any website operated by a government agency, or department, or NDPB, should automatically be licensed under the [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) or OGL. And any data behind that site should be licenced as Open Data so that others could reuse the data. 
 
-The Scottish Government's own website is [fully licenced](https://www.gov.scot/crown-copyright/)under OGL. 
+The Scottish Government's own website is [fully licenced](https://www.gov.scot/crown-copyright/) under OGL. 
 
 Changing the licening of Recycle For Scotland, making its' code open source, and making its data open would have many benefits: 
 * it could be improved on by anyone
