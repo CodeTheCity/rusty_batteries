@@ -87,7 +87,7 @@ Here are the two examples of turning closed data into open (almost well-formed d
 The enhanced versions of these flat files come close to providing something useful on which to build new apps and services. We can even pull the CSV's and map them in QGIS using open streetmap as a background - which takes all of five minutes. 
 
 ------------------------------
-![A map of all recycling centres and points](https://github.com/CodeTheCity/rusty_batteries/blob/master/images/Screenshot 2019-11-10 at 14.16.20)
+![A map of all recycling centres and points](https://github.com/CodeTheCity/rusty_batteries/blob/master/images/Screenshot%202019-11-10%20at%2014.16.20.png)
 _A map of all recylcing centres and points_
 
 -------------------------------- 
