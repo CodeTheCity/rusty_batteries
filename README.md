@@ -5,15 +5,16 @@ The aim of this project is to help citizens better understand the best route for
 
 Early tests of the Aberdeen City Council [Website](https://www.aberdeencity.gov.uk) showed that it was impossible to find even simple terms such as 'batteries' or 'light bulbs' when trying to work out how to dispose of these responsibly. 
 
-========================================
+--------------------------- 
 ![Search for batteries](https://github.com/CodeTheCity/rusty_batteries/blob/master/images/Screenshot%202019-11-09%20at%2012.47.40.png)
 _Screenshot of Aberdeen City Council Website_
-============================================
+
+------------------------------
 ## Functionality
 
 We aim to develop a website or app that someone can use to say: 
 * I am _here_
-* I have an _item_
+* I have _item 'X'_
 * What do I do with it? 
 
 It should offer guidance: 
