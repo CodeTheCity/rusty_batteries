@@ -89,7 +89,7 @@ The enhanced versions of these flat files come close to providing something usef
 
 ------------------------------
 ![A map of all recycling centres and points](https://github.com/CodeTheCity/rusty_batteries/blob/master/images/Screenshot%202019-11-10%20at%2014.16.20.png)
-_A map of all recylcing centres and points_
+_A map of all recylcing centres and points. Background map from Open StreetMap_
 
 -------------------------------- 
 
